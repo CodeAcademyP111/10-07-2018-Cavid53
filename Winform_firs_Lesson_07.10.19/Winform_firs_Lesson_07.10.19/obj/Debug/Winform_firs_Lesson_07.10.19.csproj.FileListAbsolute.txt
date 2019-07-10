@@ -1,0 +1,11 @@
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\bin\Debug\Winform_firs_Lesson_07.10.19.exe.config
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\bin\Debug\Winform_firs_Lesson_07.10.19.exe
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\bin\Debug\Winform_firs_Lesson_07.10.19.pdb
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07.10.19.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07._10._19.Form1.resources
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07._10._19.Properties.Resources.resources
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07.10.19.csproj.GenerateResource.cache
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07.10.19.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07.10.19.exe
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07.10.19.pdb
+C:\Users\Cavid\source\repos\WinForm\Winform_firs_Lesson_07.10.19\Winform_firs_Lesson_07.10.19\obj\Debug\Winform_firs_Lesson_07._10._19.Login.resources
